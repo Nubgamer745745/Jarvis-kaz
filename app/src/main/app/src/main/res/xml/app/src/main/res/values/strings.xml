@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="start">▶  Jarvis іске қосу</string>
+    <string name="stop">⏹  Тоқтату</string>
+    <string name="commands">📋  Командалар</string>
+    <string name="settings">⚙  Параметрлер</string>
+    <string name="exit">❌  Шығу</string>
+    <string name="accessibility_hint">Jarvis-қа экранды басқаруға рұқсат беріңіз</string>
+    <string name="permission_needed">Рұқсаттарсыз Jarvis жұмыс істемейді</string>
+    <string name="jarvis_started">Jarvis іске қосылды</string>
+    <string name="jarvis_stopped">Jarvis тоқтатылды</string>
+    <string name="listening">Тыңдап тұрмын...</string>
+</resources>
